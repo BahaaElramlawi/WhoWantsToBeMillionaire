@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimes_large">32dp</dimen>
+    <dimen name="dimes_normal">22dp</dimen>
+    <dimen name="dimes_small">8dp</dimen>
+
+    <dimen name="font_dimes_small">12sp</dimen>
+    <dimen name="font_dimes_normal">16sp</dimen>
+    <dimen name="font_dimes_large">20sp</dimen>
+    <dimen name="font_dimes_xlarge">32sp</dimen>
+    <dimen name="dimes_card_question">440dp</dimen>
+    <dimen name="dimes_help_circle">56dp</dimen>
+    <dimen name="dimes_help_circle_width">128dp</dimen>
+    <dimen name="dimes_card_score">120dp</dimen>
+    <dimen name="dimes_score_dollar">28dp</dimen>
+    <dimen name="dimes_question_height">108dp</dimen>
+    <dimen name="question_text_padding">24dp</dimen>
+    <dimen name="medium_space">24dp</dimen>
+    <dimen name="small_space">8dp</dimen>
+    <dimen name="height_logo">185dp</dimen>
+    <dimen name="large_space">24dp</dimen>
+    <dimen name="font_size">18sp</dimen>
+    <dimen name="header_font_size">32sp</dimen>
+    <dimen name="main_btn_width">200dp</dimen>
+    <dimen name="main_btn_height">60dp</dimen>
+
+
+</resources>
